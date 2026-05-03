@@ -1,0 +1,12 @@
+{
+    "category": "sales-log",
+    "documentCount": 1,
+    "documents": [
+        {
+            "@id": "doc:sales-log-de-nieuwe-lichting-2024-2026",
+            "title": "Sales_Log_De_Nieuwe_Lichting_2024_2026",
+            "chunkCount": 76,
+            "contentDate": "2026-05-03"
+        }
+    ]
+}
