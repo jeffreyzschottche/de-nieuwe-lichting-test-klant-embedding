@@ -1,0 +1,6 @@
+{
+    "model": "sentence-transformers\/paraphrase-multilingual-mpnet-base-v2",
+    "vectorDimension": 768,
+    "chunkTokens": 150,
+    "chunkOverlapTokens": 80
+}

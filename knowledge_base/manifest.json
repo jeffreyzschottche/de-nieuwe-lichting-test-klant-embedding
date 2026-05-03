@@ -1,0 +1,28 @@
+{
+    "@context": "https:\/\/schema.org",
+    "@type": "Dataset",
+    "@id": "kennisbank:manifest",
+    "name": "Kennisbank Export",
+    "dateCreated": "2026-05-03T18:19:26+00:00",
+    "description": "Kennisbank export in JSON-LD formaat",
+    "license": "Proprietary",
+    "model": {
+        "model": "sentence-transformers\/paraphrase-multilingual-mpnet-base-v2",
+        "vectorDimension": 768,
+        "chunkTokens": 150,
+        "chunkOverlapTokens": 80
+    },
+    "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application\/ld+json"
+    },
+    "hasPart": [],
+    "statistics": {
+        "documentCount": 0,
+        "sectionCount": 0,
+        "chunkCount": 0,
+        "estimatedWordCount": 0,
+        "categories": [],
+        "generatedAt": "2026-05-03T18:19:26+00:00"
+    }
+}
